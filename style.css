@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+/*This sets the design for the body of the html*/
+body 
+{
+    background-color:black;
+    font-family:arial;
+    color:white
+}
 
+/*This sets the design for the h1, which is practically just font type and font color*/
+h1 
+{
+    color:grey;
+    font-family:verdana
+}
 
+/*This is the design for the maindiv class that we've declaired in HTML under div.
+This is for a more organized and clean style*/
+.maindiv
+{
+    background-color:white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    margin:auto
+}
